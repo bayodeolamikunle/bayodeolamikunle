@@ -1,7 +1,9 @@
 # ☁️ Cloud & DevOps Engineer | Software Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Cloud%20%7C%20DevOps%20%7C%20Automation&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Automating%20%7C%20Deploying&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3022,35:4F6F52,65:98B9A3,100:D9E4DD&height=220&section=header&text=Cloud%20%7C%20DevOps%20%7C%20Automation&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Automating%20%7C%20Deploying&descAlignY=58&descSize=18&descColor=E5E5E5" width="100%"/>
+</p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Olakunle Bayode </h1>
