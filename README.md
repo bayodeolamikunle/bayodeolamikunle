@@ -1,81 +1,185 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+# ☁️ Cloud & DevOps Engineer | Software Developer
+
 <p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Cloud%20%7C%20DevOps%20%7C%20Automation&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%7C%20Automating%20%7C%20Deploying&descAlignY=58&descSize=18" width="100%"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Olakunle Bayode </h1>
+
 <p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
-building real-world projects, and continuously improving my technical skills.
+  <strong>☁️ Aspiring Cloud Engineer • 💻 Software Developer • ⚙️ DevOps Enthusiast</strong>
 </p>
----
-- 🔭 I'm currently working on **Project Name**
-- 🌱 I'm currently learning **Technology**
-- 🤝 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
-- 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **your-email@example.com**
----
+
 <p align="center">
-<a href="https://github.com/yourusername">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://twitter.com/yourusername">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
+  Welcome to my GitHub profile! I'm passionate about cloud technologies,
+  automation, Linux, software development, and DevOps practices.
+  I enjoy learning new technologies, building real-world projects,
+  and continuously improving my technical skills.
 </p>
+
 ---
+
+## 🚀 About Me
+
+* 🔭 I'm currently working on **Project Name**
+* 🌱 I'm currently learning **Cloud Computing, DevOps & Automation**
+* 🤝 I'm looking to collaborate on **Open Source Projects**
+* 💬 Ask me about **Programming, Cloud, Linux, Git, or DevOps**
+* 🎯 My goal is to become a **Cloud & DevOps Engineer**
+* 📫 Reach me at **[bayodeolakunle@gmail.com](mailto:your-email@example.com)**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws" />
+  <a href="https://github.com/bayodeolamikunle">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/bayode-olakunle">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/lakhunlay">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/>
+  </a>
 </p>
+
 ---
-A short description of your first project.
-**Repository:** https://github.com/yourusername/project-one
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws,azure,kubernetes,terraform,bash" />
+</p>
+
+### ☁️ Cloud
+
+* AWS
+* Microsoft Azure
+* Cloud Infrastructure
+* Storage & Compute
+* IAM & Security
+
+### ⚙️ DevOps
+
+* Git & GitHub
+* Docker
+* Kubernetes
+* Terraform
+* CI/CD
+* Infrastructure as Code
+
+### 🐧 Systems & Development
+
+* Linux
+* Bash
+* Python
+* JavaScript
+* Node.js
+* VS Code
+
 ---
-A short description of your second project.
-**Repository:** https://github.com/yourusername/project-two
+
+## 📂 Featured Projects
+
+### ☁️ Project One
+
+A short description of your first cloud or DevOps project.
+
+**Repository:**
+https://github.com/bayodeolamikunle/project-one
+
 ---
+
+### ⚙️ Project Two
+
+A short description of your second project, highlighting the technologies and skills demonstrated.
+
+**Repository:**
+https://github.com/bayodeolamikunle/project-two
+
+---
+
+### 🚀 Project Three
+
 A short description of your third project.
-**Repository:** https://github.com/yourusername/project-three
+
+**Repository:**
+https://github.com/bayodeolamikunle/project-three
+
 ---
-> Add your completed certifications below as you earn them.
-| Certification | Issuing Organization | Date | Credential |
-|---------------|----------------------|------|------------|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | [View Credential](#) |
-| AWS Cloud Practitioner | AWS | Feb 2026 | [View Credential](#) |
-| Google Cloud Digital Leader | Google | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF | Apr 2026 | [View Credential](#) |
-| *(Add more here)* | | | |
+
+## 🏆 Certifications
+
+| Certification                                                                   | Credential           |
+| ------------------------------------------------------------------------------- |--------------------- |
+| Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/OlakunleBayode-1395/B88D75B67BCCDD78?sharingId=93A9C52F598ECDAB) |
+|Microsoft Applied Skills: Get started with Azure management tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/OlakunleBayode-1395/E41917162EA4F7D6?sharingId=93A9C52F598ECDAB) |
+
+| *Add more here*                              |                      |          |                      |
+
 ---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-<!-- Add badge images here -->
-<img src="images/az900.png" width="120"/>
-<img src="images/aws-cloud-practitioner.png" width="120"/>
-<img src="images/kcna.png" width="120"/>
-<img src="images/google-cloud.png" width="120"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bayodeolamikunle&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayodeolamikunle&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
+
 ---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=bayodeolamikunle&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
+
 ---
+
+## 📈 GitHub Activity
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayodeolamikunle&theme=github-compact" alt="GitHub Activity Graph"/>
 </p>
+
 ---
+
+## 🎯 2026 Goals
+
+* ☁️ Build **10 real-world cloud projects**
+* 🤝 Contribute to **Open Source**
+* 🏆 Earn **Cloud Certifications**
+* ☸️ Learn and deploy applications with **Kubernetes**
+* 🐧 Improve **Linux & Bash** skills
+* ⚙️ Build practical **CI/CD pipelines**
+* 🏗️ Master **Infrastructure as Code with Terraform**
+* 🔐 Strengthen **Cloud Security** knowledge
+* 💼 Land a **Cloud Engineering / DevOps Role**
+
+---
+
+## 💡 My Learning Philosophy
+
+> **Learn → Build → Break → Fix → Automate → Repeat.**
+
+I'm focused on gaining practical experience by building projects,
+working with cloud infrastructure, automating repetitive tasks,
+and continuously improving my understanding of modern DevOps practices.
+
+---
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
----
-- ✅ Build 10 real-world cloud projects
-- ✅ Contribute to Open Source
-- ✅ Earn Cloud Certifications
-- ✅ Learn Kubernetes
-- ✅ Improve Linux Skills
-- ✅ Land a Cloud Engineering Role
----
+
 <p align="center">
-⭐ Thank you for visiting my profile! ⭐
+  ⭐ <strong>Thank you for visiting my profile!</strong> ⭐
 </p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep deploying. 🚀</i>
+</p>
+
