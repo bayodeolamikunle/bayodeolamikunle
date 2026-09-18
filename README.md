@@ -23,10 +23,9 @@
 
 ## 🚀 About Me
 
-* 🔭 I'm currently working on **Project Name**
+* 🔭 I'm currently working on **Naija Now**
 * 🌱 I'm currently learning **Cloud Computing, DevOps & Automation**
 * 🤝 I'm looking to collaborate on **Open Source Projects**
-* 💬 Ask me about **Programming, Cloud, Linux, Git, or DevOps**
 * 🎯 My goal is to become a **Cloud & DevOps Engineer**
 * 📫 Reach me at **[bayodeolakunle@gmail.com](mailto:your-email@example.com)**
 
