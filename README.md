@@ -87,7 +87,7 @@
 
 ### ☁️ Project One
 
-NAIJA NOW helps Nigerians discover what's trending in entertainment, sports and Nigerian culture — and gives them a place to react, debate and join the conversation
+NAIJA NOW is a platform for Nigerians to discover what's trending in entertainment, sports and Nigerian culture — and gives them a place to react, debate and join the conversation
 
 **Repository:**
 https://github.com/bayodeolamikunle/naija-now
