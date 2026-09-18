@@ -87,7 +87,7 @@
 
 ### ☁️ Project One
 
-Naija Now is a Nigerian social discovery and conversation platform where Nigerians can assess trending topics ranging from entertainment, sport, finance, celebrity gossip etc
+NAIJA NOW helps Nigerians discover what's trending in entertainment, sports and Nigerian culture — and gives them a place to react, debate and join the conversation
 
 **Repository:**
 https://github.com/bayodeolamikunle/naija-now
