@@ -88,28 +88,10 @@
 
 ### ☁️ Project One
 
-A short description of your first cloud or DevOps project.
+Naija Now is a Nigerian social discovery and conversation platform where Nigerians can assess trending topics ranging from entertainment, sport, finance, celebrity gossip etc
 
 **Repository:**
-https://github.com/bayodeolamikunle/project-one
-
----
-
-### ⚙️ Project Two
-
-A short description of your second project, highlighting the technologies and skills demonstrated.
-
-**Repository:**
-https://github.com/bayodeolamikunle/project-two
-
----
-
-### 🚀 Project Three
-
-A short description of your third project.
-
-**Repository:**
-https://github.com/bayodeolamikunle/project-three
+https://github.com/bayodeolamikunle/naija-now
 
 ---
 
@@ -119,8 +101,8 @@ https://github.com/bayodeolamikunle/project-three
 | ------------------------------------------------------------------------------- |--------------------- |
 | Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/OlakunleBayode-1395/B88D75B67BCCDD78?sharingId=93A9C52F598ECDAB) |
 |Microsoft Applied Skills: Get started with Azure management tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/OlakunleBayode-1395/E41917162EA4F7D6?sharingId=93A9C52F598ECDAB) |
-
-| *Add more here*                              |                      |          |                      |
+|Microsoft Applied Skills: Accelerate AI-assited development by using GitHub Copilot | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/OlakunleBayode-1395/50E0B03E4529B6FA?sharingId=93A9C52F598ECDAB) |
+|Microsoft Applied Skills: Resolve GitHub issues by using GitHub Copilot | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/OlakunleBayode-1395/3FCFD9CC8CB7A486?sharingId=93A9C52F598ECDAB) |
 
 ---
 
