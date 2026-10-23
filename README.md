@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Olakunle Bayode </h1>
 
 <p align="center">
-  <strong>☁️ Aspiring Cloud Engineer • 💻 Software Developer • ⚙️ DevOps Enthusiast</strong>
+  <strong>Systems Architecture Pivot | Cloud Infrastructure & DevOps Engineer (AWS / Terraform / CI/CD)</strong>
 </p>
 
 <p align="center">
